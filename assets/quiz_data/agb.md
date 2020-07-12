@@ -1,11 +1,11 @@
 # Allgemeine Geschäftsbedingungen von Dr Wue
 
 ## Geltungsbereich
-Die Allgemeinen Geschäftsbedingungen ("AGB") von Dr Wue gelten für alle Webseiten, Apps, APIs, Emails und andere Dienste von der MFG Media UG (haftungsbeschränkt) ("Betreiberin") betriebenen Plattform Dr Wue ("Dienste"). Ebenso gelten die AGB für alle übertragenen (heruntergeladenen, hochgeladenen, etc.), gespeicherten und/oder betrachteten Inhalte der Dienste ("Inhalte").  
+Die Allgemeinen Geschäftsbedingungen ("AGB") von Dr Wue gelten für alle Webseiten, Apps, APIs, Emails und andere Dienste von der Psoodle App UG (haftungsbeschränkt) ("Betreiberin") betriebenen Plattform Dr Wue ("Dienste"). Ebenso gelten die AGB für alle übertragenen (heruntergeladenen, hochgeladenen, etc.), gespeicherten und/oder betrachteten Inhalte der Dienste ("Inhalte").  
 
 
 ## Rechte an den Diensten und Nutzungslizenz
-Alle Rechte an den Diensten bleiben alleiniges Eigentum von Dr Wue. Die Dienste sind durch die Rechte der Schweiz sowie anderer europäischer Staaten geschützt. Der Name Dr Wue oder die Markenzeichen, Logos, Domainnamen, Farbschemata, etc. sind Eigentum der MFG Media UG (haftungsbeschränkt) und dürfen nur mit schriftlicher Genehmigung verwendet werden. Die Betreiberin gewährt dem Benutzer der Dienste ("Benutzer") eine unentgeltliche, persönliche, nicht übertragbare und nicht exklusive Lizenz zur Nutzung der Software zur Nutzung der Dienste.  
+Alle Rechte an den Diensten bleiben alleiniges Eigentum von Dr Wue. Die Dienste sind durch die Rechte der Schweiz sowie anderer europäischer Staaten geschützt. Der Name Dr Wue oder die Markenzeichen, Logos, Domainnamen, Farbschemata, etc. sind Eigentum der Psoodle App UG (haftungsbeschränkt) und dürfen nur mit schriftlicher Genehmigung verwendet werden. Die Betreiberin gewährt dem Benutzer der Dienste ("Benutzer") eine unentgeltliche, persönliche, nicht übertragbare und nicht exklusive Lizenz zur Nutzung der Software zur Nutzung der Dienste.  
 
 
 ## Nutzungsbeschränkungen
@@ -61,7 +61,7 @@ Die Betreiberin behält sich das Recht vor, den Nutzungsvertrag (AGB und Datensc
 
 
 ## Geltendes Recht und Gerichtsstand
-Als Gerichtsstand für allfällige Streitigkeiten gegen die Betreiberin gilt der Sitz der MFG Media UG (haftungsbeschränkt). Die Betreiberin ist berechtigt, den Kunden an dessen Wohnsitz zu belangen. Auf den Vertrag ist schweizerisches Recht anwendbar.  
+Als Gerichtsstand für allfällige Streitigkeiten gegen die Betreiberin gilt der Sitz der Psoodle App UG (haftungsbeschränkt). Die Betreiberin ist berechtigt, den Kunden an dessen Wohnsitz zu belangen. Auf den Vertrag ist schweizerisches Recht anwendbar.  
 
 
 ## Gesamte Vereinbarung
